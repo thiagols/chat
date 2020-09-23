@@ -5,7 +5,7 @@ namespace ChatServer.Domain
     public class Chatroom
     {
         private string Name;
-        private List<User> Users;
+        private List<Client> Users;
 
         public Chatroom(string name)
         {
@@ -14,7 +14,7 @@ namespace ChatServer.Domain
 
         public override string ToString() => $"{Name}_room";
 
-        public void AddUser(User user)
+        public void AddUser(Client user)
         {
             Users.Add(user);
         }

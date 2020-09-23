@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer.App", "ChatServer.App\ChatServer.App.csproj", "{705A3491-9938-4ED4-A598-45C79FFBBD52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatServer.Service", "ChatServer.Service\ChatServer.Service.csproj", "{7195CF01-8B83-4B69-BCBC-BF70E7227150}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer.Service", "ChatServer.Service\ChatServer.Service.csproj", "{7195CF01-8B83-4B69-BCBC-BF70E7227150}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatServer.Domain", "ChatServer.Domain\ChatServer.Domain.csproj", "{633E5035-6CC2-410A-8268-9A328A0BAEFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer.Domain", "ChatServer.Domain\ChatServer.Domain.csproj", "{633E5035-6CC2-410A-8268-9A328A0BAEFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatServer.IoC", "ChatServer.IoC\ChatServer.IoC.csproj", "{4178E310-4CD2-4919-A673-9A66607A1F59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer.IoC", "ChatServer.IoC\ChatServer.IoC.csproj", "{4178E310-4CD2-4919-A673-9A66607A1F59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatServer.Tests", "ChatServer.Tests\ChatServer.Tests.csproj", "{C2355734-854F-4372-85C7-AE0B051F9889}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer.Tests", "ChatServer.Tests\ChatServer.Tests.csproj", "{C2355734-854F-4372-85C7-AE0B051F9889}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer.App", "ChatServer.App\ChatServer.App.csproj", "{1C7C0CA7-543B-43BC-BDED-8B06DAA03CB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{705A3491-9938-4ED4-A598-45C79FFBBD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{705A3491-9938-4ED4-A598-45C79FFBBD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{705A3491-9938-4ED4-A598-45C79FFBBD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{705A3491-9938-4ED4-A598-45C79FFBBD52}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7195CF01-8B83-4B69-BCBC-BF70E7227150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7195CF01-8B83-4B69-BCBC-BF70E7227150}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7195CF01-8B83-4B69-BCBC-BF70E7227150}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{C2355734-854F-4372-85C7-AE0B051F9889}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2355734-854F-4372-85C7-AE0B051F9889}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2355734-854F-4372-85C7-AE0B051F9889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7C0CA7-543B-43BC-BDED-8B06DAA03CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7C0CA7-543B-43BC-BDED-8B06DAA03CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7C0CA7-543B-43BC-BDED-8B06DAA03CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7C0CA7-543B-43BC-BDED-8B06DAA03CB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

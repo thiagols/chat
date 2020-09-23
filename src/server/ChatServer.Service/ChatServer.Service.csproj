@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ChatServer.Domain\ChatServer.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
