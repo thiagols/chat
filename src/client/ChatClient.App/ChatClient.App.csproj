@@ -6,4 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ChatClient.Service\ChatClient.Service.csproj" />
+  </ItemGroup>
+
 </Project>
