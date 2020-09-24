@@ -1,4 +1,4 @@
-﻿using ChatClient.Service;
+﻿using ChatClient.Domain;
 using System;
 using System.Text;
 using System.Threading;
@@ -11,10 +11,12 @@ namespace ChatClient.App
         private Thread Thread { get; set; }
         public StringBuilder Messages;
 
-        public ChatService _chatService = new ChatService();
+        private readonly IChatService _chatService;
 
-        public frmChat()
+        public frmChat(IChatService chatService)
         {
+            _chatService = chatService;
+
             InitializeComponent();
             ClearAllFields();
 

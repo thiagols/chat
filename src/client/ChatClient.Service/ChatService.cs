@@ -1,12 +1,12 @@
-﻿using System;
+﻿using ChatClient.Domain;
+using System;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using System.Threading;
 
 namespace ChatClient.Service
 {
-    public class ChatService
+    public class ChatService : IChatService
     {
         public Socket Socket { get; private set; }
         public IPAddress ServerIp { get; private set; }
@@ -69,6 +69,24 @@ namespace ChatClient.Service
                 if(IsChatting)
                 {
                     byte[] message = Encoding.Unicode.GetBytes($"sendmsg {destinyUser} {msg}");
+                    Socket.Send(message);
+                }
+
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        public bool GetListUsers()
+        {
+            try
+            {
+                if (IsChatting)
+                {
+                    byte[] message = Encoding.Unicode.GetBytes($"getclients");
                     Socket.Send(message);
                 }
 

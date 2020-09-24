@@ -1,7 +1,6 @@
+using ChatClient.Domain;
+using Microsoft.Extensions.DependencyInjection;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ChatClient.App
@@ -14,10 +13,12 @@ namespace ChatClient.App
         [STAThread]
         static void Main()
         {
+            ServiceProvider service = Startup.ConfigureServices().BuildServiceProvider();
+
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmChat());
+            Application.Run(new frmChat(service.GetService<IChatService>()));
         }
     }
 }

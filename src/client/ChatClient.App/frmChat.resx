@@ -111,6 +111,126 @@
   <data name="&gt;&gt;statusMsg.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <data name="&gt;&gt;txtApelido.Name" xml:space="preserve">
+    <value>txtApelido</value>
+  </data>
+  <data name="&gt;&gt;txtApelido.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtApelido.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;txtApelido.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnSair.Name" xml:space="preserve">
+    <value>btnSair</value>
+  </data>
+  <data name="&gt;&gt;btnSair.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSair.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btnSair.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnEntrar.Name" xml:space="preserve">
+    <value>btnEntrar</value>
+  </data>
+  <data name="&gt;&gt;btnEntrar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEntrar.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;btnEntrar.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;txtPorta.Name" xml:space="preserve">
+    <value>txtPorta</value>
+  </data>
+  <data name="&gt;&gt;txtPorta.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtPorta.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;txtPorta.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;txtIP.Name" xml:space="preserve">
+    <value>txtIP</value>
+  </data>
+  <data name="&gt;&gt;txtIP.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtIP.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;txtIP.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 12</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>776, 72</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>10</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Server</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
   <data name="txtApelido.Location" type="System.Drawing.Point, System.Drawing.Primitives">
     <value>399, 29</value>
   </data>
@@ -318,29 +438,62 @@
   <data name="&gt;&gt;txtIP.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
-  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>12, 12</value>
+  <data name="&gt;&gt;btnEnviarMsgAll.Name" xml:space="preserve">
+    <value>btnEnviarMsgAll</value>
   </data>
-  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>776, 72</value>
+  <data name="&gt;&gt;btnEnviarMsgAll.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="groupBox1.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>10</value>
+  <data name="&gt;&gt;btnEnviarMsgAll.Parent" xml:space="preserve">
+    <value>groupBox2</value>
   </data>
-  <data name="groupBox1.Text" xml:space="preserve">
-    <value>Server</value>
+  <data name="&gt;&gt;btnEnviarMsgAll.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
-    <value>groupBox1</value>
+  <data name="&gt;&gt;btnEnviarMsg.Name" xml:space="preserve">
+    <value>btnEnviarMsg</value>
   </data>
-  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+  <data name="&gt;&gt;btnEnviarMsg.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEnviarMsg.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;btnEnviarMsg.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;txtMensagem.Name" xml:space="preserve">
+    <value>txtMensagem</value>
+  </data>
+  <data name="&gt;&gt;txtMensagem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtMensagem.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;txtMensagem.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 489</value>
+  </data>
+  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>776, 100</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
   <data name="btnEnviarMsgAll.Location" type="System.Drawing.Point, System.Drawing.Primitives">
     <value>605, 58</value>
@@ -414,26 +567,53 @@
   <data name="&gt;&gt;txtMensagem.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>12, 489</value>
+  <data name="&gt;&gt;txtNovaSala.Name" xml:space="preserve">
+    <value>txtNovaSala</value>
   </data>
-  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>776, 100</value>
+  <data name="&gt;&gt;txtNovaSala.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="groupBox2.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>11</value>
+  <data name="&gt;&gt;txtNovaSala.Parent" xml:space="preserve">
+    <value>groupBox3</value>
   </data>
-  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
-    <value>groupBox2</value>
+  <data name="&gt;&gt;txtNovaSala.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+  <data name="&gt;&gt;btnCriarSala.Name" xml:space="preserve">
+    <value>btnCriarSala</value>
+  </data>
+  <data name="&gt;&gt;btnCriarSala.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCriarSala.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;btnCriarSala.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>13, 379</value>
+  </data>
+  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>174, 104</value>
+  </data>
+  <data name="groupBox3.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>13</value>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>Nova sala</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <data name="txtNovaSala.Location" type="System.Drawing.Point, System.Drawing.Primitives">
     <value>9, 33</value>
@@ -480,29 +660,41 @@
   <data name="&gt;&gt;btnCriarSala.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>13, 379</value>
+  <data name="&gt;&gt;listSalas.Name" xml:space="preserve">
+    <value>listSalas</value>
   </data>
-  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>174, 104</value>
+  <data name="&gt;&gt;listSalas.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="groupBox3.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>13</value>
+  <data name="&gt;&gt;listSalas.Parent" xml:space="preserve">
+    <value>groupBox4</value>
   </data>
-  <data name="groupBox3.Text" xml:space="preserve">
-    <value>Nova sala</value>
+  <data name="&gt;&gt;listSalas.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
-    <value>groupBox3</value>
+  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing.Primitives">
+    <value>12, 99</value>
   </data>
-  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
+  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing.Primitives">
+    <value>175, 271</value>
+  </data>
+  <data name="groupBox4.TabIndex" type="System.Int32, System.Private.CoreLib">
+    <value>14</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>Salas disponíveis</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
+  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="listSalas.ItemHeight" type="System.Int32, System.Private.CoreLib">
     <value>20</value>
@@ -540,30 +732,6 @@
   <data name="&gt;&gt;listSalas.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing.Primitives">
-    <value>12, 99</value>
-  </data>
-  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing.Primitives">
-    <value>175, 271</value>
-  </data>
-  <data name="groupBox4.TabIndex" type="System.Int32, System.Private.CoreLib">
-    <value>14</value>
-  </data>
-  <data name="groupBox4.Text" xml:space="preserve">
-    <value>Salas disponíveis</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
   <data name="listPessoas.ItemHeight" type="System.Int32, System.Private.CoreLib">
     <value>20</value>
   </data>
@@ -571,9 +739,21 @@
     <value>Ana</value>
   </data>
   <data name="listPessoas.Items1" xml:space="preserve">
-    <value>Maria</value>
+    <value>Franscisco</value>
   </data>
   <data name="listPessoas.Items2" xml:space="preserve">
+    <value>Luiz</value>
+  </data>
+  <data name="listPessoas.Items3" xml:space="preserve">
+    <value>Marcus</value>
+  </data>
+  <data name="listPessoas.Items4" xml:space="preserve">
+    <value>Patricia</value>
+  </data>
+  <data name="listPessoas.Items5" xml:space="preserve">
+    <value>Pedro</value>
+  </data>
+  <data name="listPessoas.Items6" xml:space="preserve">
     <value>Thiago</value>
   </data>
   <data name="listPessoas.Location" type="System.Drawing.Point, System.Drawing.Primitives">

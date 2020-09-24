@@ -199,7 +199,11 @@
             this.listPessoas.Items.AddRange(new object[] {
             resources.GetString("listPessoas.Items"),
             resources.GetString("listPessoas.Items1"),
-            resources.GetString("listPessoas.Items2")});
+            resources.GetString("listPessoas.Items2"),
+            resources.GetString("listPessoas.Items3"),
+            resources.GetString("listPessoas.Items4"),
+            resources.GetString("listPessoas.Items5"),
+            resources.GetString("listPessoas.Items6")});
             this.listPessoas.Name = "listPessoas";
             // 
             // groupBox5
